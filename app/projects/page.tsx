@@ -169,7 +169,7 @@ export default function Projects() {
     },
     {
       title: "YOJ AI - Client Platform",
-      subtitle: "Frontend & API Integration Intern • May 2025 - Present",
+      subtitle: "Frontend & API Integration Intern • May 2025 - Aug 2025",
       description: "Frontend & API Integration Intern delivering responsive, pixel-perfect AI client platform. Integrating multiple AI APIs with real-time analytics dashboards and seamless user experience.",
       technologies: ["React", "AI Integration", "Analytics", "JavaScript", "UI/UX"],
       type: "experience" as const,
